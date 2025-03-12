@@ -1,11 +1,10 @@
-# Hi there! I'm Ibrahem Deek 👋  
+# Hi there! I'm Ibrahim Deek 👋  
 *Graduate Student | Passionate Learner | Tech Enthusiast*
 
 ---
 
 ## Profile
-Passionate and driven, eager to improve and showcase my skills in a professional setting.
-
+Hello! I'm Ibrahim, a dedicated graduate of An-Najah National University with a background in Management Information Systems. I am passionate about improving my skills and showcasing my abilities through projects and certifications.
 ---
 
 ## Skills
