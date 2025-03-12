@@ -1,68 +1,26 @@
-## Hi there 👋 
-
-<!--
-**Ibrahemiyad/Ibrahemiyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Ibrahem Deek
-
-**Graduate Student**
-
-Passion leads me to improve myself and provide a better image of my skills.
+# Hi there! I'm Ibrahem Deek 👋  
+*Graduate Student | Aspiring Innovator | Passionate Learner*
 
 ---
 
-## Contact
+## About Me
+Hello! I'm Ibrahem, a dedicated graduate student in Management Information Systems at An-Najah National University. My passion drives me to continuously improve myself and showcase my skills through projects, certifications, and active collaboration.
 
-- **Email**: ibrahem2000.deek@gmail.com
-- **Phone**: 0592997163
-- **Location**: Kafr Al-Deek, Salfit, Palestine
-
----
-
-## Skills
-
-- Teamwork and Collaboration
-- Microsoft Excel
-- Communication
-- Taking Responsibility
-- Problem Solving
-- Reporting
-
----
-
-## Languages
-
-- **Arabic**: Native or Bilingual Proficiency
-- **English**: Professional Working Proficiency
+- 🌟 Skilled in teamwork, problem-solving, and communication.
+- 🛠️ Experienced with HTML, PHP, ERP systems, and data reporting tools.
+- 🌐 Active member of the Arab Innovation Network.
 
 ---
 
 ## Education
-
-- **Management Information System**  
-  *An Najah National University*  
-  *09/2019 - 02/2024* | *Nablus*
-  
-- **High School Certificate**  
-  *Kafr Al-Deek Secondary School*  
-  *09/2017 - 09/2018*  
-  *Score: 86.4*
+- **Management Information System**, *An-Najah National University*  
+  *09/2019 - 02/2024, Nablus*  
+- **High School Certificate**, *Kafr AL-Deek Secondary School*  
+  *Graduated with an 86.4 average*
 
 ---
 
-## Certificates
-
+## Certifications
 - Accountant
 - Enterprise Resource Planning (ERP Odoo)
 - Project Management
@@ -72,14 +30,31 @@ Passion leads me to improve myself and provide a better image of my skills.
 
 ---
 
-## Personal Projects
+## Skills
+- **Soft Skills:** Teamwork, communication, problem-solving, taking responsibility  
+- **Technical Skills:** HTML, PHP, ERP systems, Microsoft Excel, reporting tools  
+- **Languages:**  
+  - Arabic: Native or Bilingual Proficiency  
+  - English: Professional Working Proficiency  
 
-- **Land Development Project**  
-  Course on the survey device (*08/2021 - 11/2021*)
+---
+
+## Projects
+- **Land Development Project** *(08/2021 - 11/2021)*  
+  Applied survey device knowledge to support regional land development.
 
 ---
 
 ## Achievements
+- Active member of the *Arab Innovation Network* since September 2022.  
 
-- **Active Member**  
-  Arab Innovation Network (*09/2022 - Graduate*)
+---
+
+## Get in Touch!
+- 📫 Email: [ibrahem2000.deek@gmail.com](mailto:ibrahem2000.deek@gmail.com)
+- 📞 Phone: 0592997163  
+- 🌍 Location: Kafr Al-Deek, Salfit, Palestine  
+
+---
+
+> *"Passion leads me to improve myself and provide a better image of my skills."* – Ibrahem
